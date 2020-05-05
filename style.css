@@ -1,0 +1,77 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+.bg-light{
+    background-color: white!important;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.btn{
+    background-color: #000;
+    color: white;
+    padding: 5px 15px;
+}
+.btn:hover{
+    color: rgb(207, 205, 205);
+}
+.container{
+    margin-top: 20px;
+}
+.see-all a{
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+}
+.see-all a:hover{
+    color: #f1a20f;
+}
+
+.card{
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px 0 lightgray;
+}
+
+.card img{
+    width: 200px;
+}
+.card-footer{
+    background-color: #fff;
+    border: none;
+    text-align: center;
+}
+.price{
+    font-weight: bolder;
+}
+
+.categories{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pale-img img{
+    width: 500px;
+}
+
+.perfume{
+    border-radius: 15px 0 25px 0px;;
+    box-shadow: 2px 2px 15px 0 lightgray;
+    padding: 30px;
+}
+
+.shoe{
+    border-radius: 15px 0 25px 0px;;
+    box-shadow: 2px 2px 15px 0 lightgray;
+    padding: 30px;
+    margin-top: 30px;
+}
+.bag{
+    border-radius: 0px 15px 0px 25px;;
+    box-shadow: 2px 2px 15px 0 lightgray;
+    padding: 30px;
+    float: right;
+}
